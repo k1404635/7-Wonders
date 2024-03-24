@@ -1,0 +1,7 @@
+RHODOS,ore,wood wood,VVV,clay clay clay,army army,ore ore ore ore,VVVVVVV
+OLYMPIA,wood,wood wood,VVV,stone stone,1FreePerAge,ore ore,VVVVVVV
+GIZAH,stone,stone stone,VVV,wood wood wood,VVVVV,stone stone stone stone,VVVVVVV
+EPHESOS,papyrus,stone stone,VVV,wood wood,+9,papyrus papyrus,VVVVVVV
+BABYLON,clay,clay clay,VVV,wood wood wood,mathematics or writing or engineering,clay clay clay clay,VVVVVVV
+ALEXANDRIA,glass,stone stone,VVV,ore ore,clay or ore or wood or stone,glass glass,VVVVVVV
+HALIKARNASSUS,loom,clay clay,VVV,ore ore ore,1FreeDiscard,loom loom,VVVVVVV
